@@ -1,6 +1,6 @@
 # ProductTally
 
-[English](https://github.com/ProductTally/.github) · [简体中文](https://github.com/ProductTally/.github/blob/main/profile/README.zh.md) · [Español](https://github.com/ProductTally/.github/blob/main/profile/README.es.md) · **日本語**
+[English](https://github.com/ProductTally/.github) · [Español](https://github.com/ProductTally/.github/blob/main/profile/README.es.md) · **日本語** · [简体中文](https://github.com/ProductTally/.github/blob/main/profile/README.zh.md)
 
 **役立つ製品を見つけ、製品の価値を届ける。**
 
